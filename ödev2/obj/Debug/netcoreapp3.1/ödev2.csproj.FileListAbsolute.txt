@@ -1,0 +1,17 @@
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\bin\Debug\netcoreapp3.1\ödev2.exe
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\bin\Debug\netcoreapp3.1\ödev2.deps.json
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\bin\Debug\netcoreapp3.1\ödev2.runtimeconfig.json
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\bin\Debug\netcoreapp3.1\ödev2.runtimeconfig.dev.json
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\bin\Debug\netcoreapp3.1\ödev2.dll
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\bin\Debug\netcoreapp3.1\ödev2.pdb
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\obj\Debug\netcoreapp3.1\ödev2.csproj.AssemblyReference.cache
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\obj\Debug\netcoreapp3.1\ödev2.Form1.resources
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\obj\Debug\netcoreapp3.1\ödev2.Properties.Resources.resources
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\obj\Debug\netcoreapp3.1\ödev2.csproj.GenerateResource.cache
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\obj\Debug\netcoreapp3.1\ödev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\obj\Debug\netcoreapp3.1\ödev2.AssemblyInfoInputs.cache
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\obj\Debug\netcoreapp3.1\ödev2.AssemblyInfo.cs
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\obj\Debug\netcoreapp3.1\ödev2.csproj.CoreCompileInputs.cache
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\obj\Debug\netcoreapp3.1\ödev2.dll
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\obj\Debug\netcoreapp3.1\ödev2.pdb
+C:\Users\SAPPHİRE\Source\Repos\ödev2\ödev2\obj\Debug\netcoreapp3.1\ödev2.genruntimeconfig.cache
